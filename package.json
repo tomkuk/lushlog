@@ -1,0 +1,27 @@
+{
+  "name": "lushlog",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
+    "axios": "^0.20.0",
+    "classnames": "^2.2.6",
+    "easy-peasy": "^3.3.1",
+    "react-day-picker": "7.4.0",
+    "react-enroute": "^4.0.4",
+    "react-hook-form": "^6.8.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/ui": "^0.5.0",
+    "@tailwindui/react": "^0.1.1",
+    "autoprefixer": "^9.8.6",
+    "postcss-nested": "^4.2.3",
+    "tailwindcss": "^1.8.3",
+    "vite": "^1.0.0-rc.4",
+    "vite-plugin-react": "^3.0.2"
+  }
+}
